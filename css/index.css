@@ -213,11 +213,11 @@ body {
   cursor: pointer;
 }
 .icon-slider {
-  fill: rgba(18, 18, 18, 0.3);
+  stroke: rgba(18, 18, 18, 0.3);
 }
 .icon-slider:hover,
 .icon-slider:focus {
-  fill: #121212;
+  stroke: #121212;
 }
 .ligth-theme-text {
   font-family: "DM Sans";
